@@ -1,11 +1,11 @@
 window.I18N={
 ru:{
-tg_cloud:'Копия в облаке Telegram',tg_save:'Сохранить в облако',tg_load:'Восстановить из облака',tg_saved:'Копия сохранена в облаке Telegram',tg_none:'В облаке нет копии',tg_failed:'Облако Telegram недоступно',tg_sure:'Нажмите ещё раз: текущие данные будут заменены',tg_note:'Копия хранится на серверах Telegram в вашем аккаунте. Нажимайте, только если согласны.',sc_tg:'В Telegram быстрый ввод открывается ссылкой с параметром startapp: qr-350 (QR на 350 сом), tr-350 (перевод исходящий), ti-350 (перевод входящий).',app:'Мои деньги',tab_today:'Сегодня',tab_ops:'Операции',tab_rep:'Отчёты',tab_more:'Ещё',
+tg_cloud:'Копия в облаке Telegram',tg_save:'Сохранить в облако',tg_load:'Восстановить из облака',tg_saved:'Копия сохранена в облаке Telegram',tg_none:'В облаке нет копии',tg_failed:'Облако Telegram недоступно',tg_sure:'Нажмите ещё раз: текущие данные будут заменены',tg_note:'Копия хранится на серверах Telegram в вашем аккаунте. Нажимайте, только если согласны.',sc_tg:'В Telegram быстрый ввод открывается ссылкой с параметром startapp: qr-350 (QR на 350 сом), tr-350 (перевод исходящий), ti-350 (перевод входящий).',app:'Tallyo',new_entry:'Новая запись',cats_title:'Категории',tab_today:'Сегодня',tab_ops:'Операции',tab_rep:'Отчёты',tab_more:'Ещё',
 exp:'Расход',inc:'Доход',tr:'Перевод',income:'Доходы',expense:'Расходы',balance:'Баланс',
 add:'Добавить',save:'Сохранить',cancel:'Отмена',del:'Удалить',del_sure:'Точно удалить?',edit:'Изменить',search:'Поиск',all:'Все',undo:'Отменить',
 amount:'Сумма',note:'Заметка',note_ph:'Что купили или от кого',date:'Дата и время',account:'Счёт',account_to:'На счёт',category:'Категория',method:'Способ',more_cats:'Ещё…',fewer:'Меньше',
 added:'Добавлено',dup:'Такая операция уже есть',need_amt:'Введите сумму больше нуля',need_acc2:'Выберите разные счета',
-limit_m:'Лимит расходов в месяц',left:'Осталось',over:'Превышено на',no_ops:'Пока нет операций. Добавьте первую выше.',no_exp:'Нет расходов за этот месяц.',recent:'Последние',
+limit_m:'Лимит расходов в месяц',left:'Осталось',over:'Превышено на',no_ops:'Пока нет операций. Нажмите «+» внизу.',no_exp:'Нет расходов за этот месяц.',recent:'Последние',
 by_cat:'Расходы по категориям',by_day:'Расходы по дням',compare:'Сравнение с прошлым месяцем',top_notes:'Частые траты',accounts:'Счета',this_m:'Этот месяц',prev_m:'Прошлый',
 add_account:'Добавить счёт',name:'Название',currency:'Валюта',opening:'Начальный остаток',budgets:'Бюджеты по категориям',budget_hint:'Лимит на месяц в основной валюте. Пусто — без лимита.',
 recurring:'Повторяющиеся платежи',add_rec:'Добавить платёж',day_m:'День месяца (1–28)',goals:'Цели накоплений',add_goal:'Добавить цель',target:'Цель',saved:'Накоплено',add_saved:'Пополнить',
@@ -25,12 +25,12 @@ food:'Еда',transport:'Транспорт',home:'Дом',comm:'Связь',hea
 cash:'Наличные',mon:'мес.',empty_goal:'Целей пока нет.',empty_rec:'Повторяющихся платежей нет.',kind:'Тип',budget_over:'Лимит превышен',to_acc:'→'
 },
 ky:{
-tg_cloud:'Telegram булутундагы көчүрмө',tg_save:'Булутка сактоо',tg_load:'Булуттан калыбына келтирүү',tg_saved:'Көчүрмө Telegram булутуна сакталды',tg_none:'Булутта көчүрмө жок',tg_failed:'Telegram булуту жеткиликсиз',tg_sure:'Дагы бир жолу басыңыз: азыркы маалымат алмашат',tg_note:'Көчүрмө Telegram серверлеринде аккаунтуңузда сакталат. Макул болсоңуз гана басыңыз.',sc_tg:'Telegram\'да тез киргизүү startapp параметри бар шилтеме менен ачылат: qr-350 (350 сомго QR), tr-350 (чыгуучу которуу), ti-350 (кирүүчү которуу).',app:'Менин акчам',tab_today:'Бүгүн',tab_ops:'Операциялар',tab_rep:'Отчёттор',tab_more:'Дагы',
+tg_cloud:'Telegram булутундагы көчүрмө',tg_save:'Булутка сактоо',tg_load:'Булуттан калыбына келтирүү',tg_saved:'Көчүрмө Telegram булутуна сакталды',tg_none:'Булутта көчүрмө жок',tg_failed:'Telegram булуту жеткиликсиз',tg_sure:'Дагы бир жолу басыңыз: азыркы маалымат алмашат',tg_note:'Көчүрмө Telegram серверлеринде аккаунтуңузда сакталат. Макул болсоңуз гана басыңыз.',sc_tg:'Telegram\'да тез киргизүү startapp параметри бар шилтеме менен ачылат: qr-350 (350 сомго QR), tr-350 (чыгуучу которуу), ti-350 (кирүүчү которуу).',app:'Tallyo',new_entry:'Жаңы жазуу',cats_title:'Категориялар',tab_today:'Бүгүн',tab_ops:'Операциялар',tab_rep:'Отчёттор',tab_more:'Дагы',
 exp:'Чыгаша',inc:'Киреше',tr:'Которуу',income:'Кирешелер',expense:'Чыгашалар',balance:'Баланс',
 add:'Кошуу',save:'Сактоо',cancel:'Жокко чыгаруу',del:'Өчүрүү',del_sure:'Чын эле өчүрөбүзбү?',edit:'Өзгөртүү',search:'Издөө',all:'Баары',undo:'Кайтаруу',
 amount:'Сумма',note:'Эскертүү',note_ph:'Эмне сатып алдыңыз же кимден',date:'Дата жана убакыт',account:'Эсеп',account_to:'Кайсы эсепке',category:'Категория',method:'Төлөм жолу',more_cats:'Дагы…',fewer:'Азыраак',
 added:'Кошулду',dup:'Мындай операция бар',need_amt:'Нөлдөн чоң сумма киргизиңиз',need_acc2:'Ар башка эсептерди тандаңыз',
-limit_m:'Айлык чыгаша лимити',left:'Калды',over:'Ашты',no_ops:'Операциялар жок. Биринчисин жогоруда кошуңуз.',no_exp:'Бул айда чыгашалар жок.',recent:'Акыркылар',
+limit_m:'Айлык чыгаша лимити',left:'Калды',over:'Ашты',no_ops:'Операциялар жок. Төмөндөгү «+» баскычын басыңыз.',no_exp:'Бул айда чыгашалар жок.',recent:'Акыркылар',
 by_cat:'Категория боюнча чыгашалар',by_day:'Күн боюнча чыгашалар',compare:'Өткөн ай менен салыштыруу',top_notes:'Көп чыгашалар',accounts:'Эсептер',this_m:'Бул ай',prev_m:'Өткөн',
 add_account:'Эсеп кошуу',name:'Аталышы',currency:'Валюта',opening:'Баштапкы калдык',budgets:'Категория боюнча бюджеттер',budget_hint:'Негизги валютадагы айлык лимит. Бош болсо — лимитсиз.',
 recurring:'Кайталануучу төлөмдөр',add_rec:'Төлөм кошуу',day_m:'Айдын күнү (1–28)',goals:'Топтоо максаттары',add_goal:'Максат кошуу',target:'Максат',saved:'Топтолду',add_saved:'Толуктоо',
@@ -50,12 +50,12 @@ food:'Тамак-аш',transport:'Транспорт',home:'Үй',comm:'Байл
 cash:'Нак акча',mon:'ай',empty_goal:'Максаттар жок.',empty_rec:'Кайталануучу төлөмдөр жок.',kind:'Түрү',budget_over:'Лимит ашты',to_acc:'→'
 },
 en:{
-tg_cloud:'Telegram cloud backup',tg_save:'Save to cloud',tg_load:'Restore from cloud',tg_saved:'Backup saved to Telegram cloud',tg_none:'No backup in the cloud',tg_failed:'Telegram cloud is unavailable',tg_sure:'Tap again: current data will be replaced',tg_note:'The backup is stored on Telegram servers in your account. Use it only if you agree.',sc_tg:'In Telegram, quick entry opens with a startapp link: qr-350 (QR for 350), tr-350 (outgoing transfer), ti-350 (incoming transfer).',app:'My Money',tab_today:'Today',tab_ops:'History',tab_rep:'Reports',tab_more:'More',
+tg_cloud:'Telegram cloud backup',tg_save:'Save to cloud',tg_load:'Restore from cloud',tg_saved:'Backup saved to Telegram cloud',tg_none:'No backup in the cloud',tg_failed:'Telegram cloud is unavailable',tg_sure:'Tap again: current data will be replaced',tg_note:'The backup is stored on Telegram servers in your account. Use it only if you agree.',sc_tg:'In Telegram, quick entry opens with a startapp link: qr-350 (QR for 350), tr-350 (outgoing transfer), ti-350 (incoming transfer).',app:'Tallyo',new_entry:'New entry',cats_title:'Categories',tab_today:'Today',tab_ops:'History',tab_rep:'Reports',tab_more:'More',
 exp:'Expense',inc:'Income',tr:'Transfer',income:'Income',expense:'Expenses',balance:'Balance',
 add:'Add',save:'Save',cancel:'Cancel',del:'Delete',del_sure:'Really delete?',edit:'Edit',search:'Search',all:'All',undo:'Undo',
 amount:'Amount',note:'Note',note_ph:'What you bought or who from',date:'Date and time',account:'Account',account_to:'To account',category:'Category',method:'Method',more_cats:'More…',fewer:'Less',
 added:'Added',dup:'This entry already exists',need_amt:'Enter an amount above zero',need_acc2:'Choose two different accounts',
-limit_m:'Monthly spending limit',left:'Left',over:'Over by',no_ops:'No entries yet. Add the first one above.',no_exp:'No expenses this month.',recent:'Recent',
+limit_m:'Monthly spending limit',left:'Left',over:'Over by',no_ops:'No entries yet. Tap + below to add one.',no_exp:'No expenses this month.',recent:'Recent',
 by_cat:'Expenses by category',by_day:'Expenses by day',compare:'Compared with last month',top_notes:'Frequent spending',accounts:'Accounts',this_m:'This month',prev_m:'Last',
 add_account:'Add account',name:'Name',currency:'Currency',opening:'Opening balance',budgets:'Category budgets',budget_hint:'Monthly limit in the main currency. Empty means no limit.',
 recurring:'Recurring payments',add_rec:'Add payment',day_m:'Day of month (1–28)',goals:'Savings goals',add_goal:'Add goal',target:'Target',saved:'Saved',add_saved:'Add',
